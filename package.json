@@ -1,0 +1,25 @@
+{
+  "name": "discord-user-presence",
+  "version": "1.0.0",
+  "description": "A simple script to give yourself a presence :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/team-tritan/discord-user-presence.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/team-tritan/discord-user-presence/issues"
+  },
+  "homepage": "https://gitlab.com/team-tritan/discord-user-presence#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
